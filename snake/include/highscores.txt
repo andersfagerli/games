@@ -1,5 +1,1 @@
-AND 56
-AND 53
-REK 43
-AAA 40
-AND 39
+
